@@ -5,7 +5,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 - 🔭 Currently working on **CodeCraft**, an online programming learning platform.
 - 🌱 Skilled in Java, C++, C#, Python, SQL.
 - 💼 Seeking internship and collaborative projects.
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 Reach me at: [aminulislammahim2013@email.com](mailto:aminulislammahim2013@email.com) | [LinkedIn](https://www.linkedin.com/in/aminul-islam-mahim/)
 
 ---
 
