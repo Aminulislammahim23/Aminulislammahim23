@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Aminul Islam Mahim 👋
 
-<!--
-**Aminulislammahim23/Aminulislammahim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering student passionate about software development, programming, and problem-solving.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **CodeCraft**, an online programming learning platform.
+- 🌱 Skilled in Java, C++, C#, Python, SQL.
+- 💼 Seeking internship and collaborative projects.
+- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+
+| Project Name      | Description                                | Link                                      |
+|-------------------|--------------------------------------------|-------------------------------------------|
+| CodeCraft         | Online programming learning platform       | [GitHub Repo](https://github.com/yourrepo) |
+| Electric Bill System | Web app to manage electric bills           | [GitHub Repo](https://github.com/yourrepo) |
+
+---
+
+### Skills
+
+- Programming Languages: Java, C++, C#, Python, SQL  
+- Web: HTML, CSS, PHP, MySQL  
+- Tools: Git, VS Code, XAMPP  
+
+---
+
+Thanks for visiting my profile! 😊
