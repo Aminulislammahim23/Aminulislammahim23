@@ -13,9 +13,10 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 | Project Name      | Description                                | Link                                      |
 |-------------------|--------------------------------------------|-------------------------------------------|
-| CodeCraft         | Online programming learning platform       | [GitHub Repo](https://github.com/yourrepo) |
-| Electric Bill System | Web app to manage electric bills           | [GitHub Repo](https://github.com/yourrepo) |
-| University Portal | desktop application based university portal app | [GitHub Repo](https://github.com/yourrepo) |
+| CodeCraft         | Online programming learning platform       | [GitHub Repo](https://github.com/Aminulislammahim23/CodeCraft) |
+| University Portal | desktop application based university portal app | [GitHub Repo](https://github.com/Aminulislammahim23/University_Portal) |
+| Electric Bill System | Web app to manage electric bills           | [GitHub Repo](https://github.com/Aminulislammahim23/electric_bill_management_system_website) |
+| Cafe Shop Management System | desktop application cafe shop management system | [GitHub Repo](https://github.com/Aminulislammahim23/Cafe_App-C-) |
 
 ---
 
