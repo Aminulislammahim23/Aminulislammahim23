@@ -15,6 +15,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 |-------------------|--------------------------------------------|-------------------------------------------|
 | CodeCraft         | Online programming learning platform       | [GitHub Repo](https://github.com/yourrepo) |
 | Electric Bill System | Web app to manage electric bills           | [GitHub Repo](https://github.com/yourrepo) |
+| University Portal | desktop application based university portal app | [GitHub Repo](https://github.com/yourrepo) |
 
 ---
 
