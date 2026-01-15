@@ -3,7 +3,7 @@
 I'm a Computer Science and Engineering student passionate about software development, programming, and problem-solving.
 
 - 🔭 Currently working on **CodeCraft**, an online programming learning platform.
-- 🌱 Skilled in Java, C++, C#, Python, SQL.
+- 🌱 Skilled in Java, C++, C#, Python, SQL, Kotlin , React , Next JS , Node JS , JavaScript , HTML , CSS , PHP, Dart.
 - 💼 Seeking internship and collaborative projects.
 - 📫 Reach me at: [aminulislammahim2013@email.com](mailto:aminulislammahim2013@email.com) | [LinkedIn](https://www.linkedin.com/in/aminul-islam-mahim/)
 
@@ -24,9 +24,9 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 ### Skills
 
-- Programming Languages: Java, C++, C#, Python, SQL  
-- Web: HTML, CSS, PHP, MySQL  
-- Tools: Git, VS Code, XAMPP  
+- Programming Languages: Java, C++, C#, Python, SQL, Kotlin , React , Next JS , Node JS , JavaScript , HTML , CSS , PHP, Dart.  
+- Web: HTML, CSS, PHP, MySQL , MongoDB , MariaDB , MSSQL . 
+- Tools: Git, VS Code, XAMPP, Visual Studio , Android Studio 
 
 ---
 
