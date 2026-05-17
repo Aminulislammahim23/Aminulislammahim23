@@ -13,6 +13,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 | Project Name      | Description                                | Link                                      |
 |-------------------|--------------------------------------------|-------------------------------------------|
+| TechKhor          | A Full-Stack Online E-Commerece Platform   | [GitHub Repo](https://github.com/Aminulislammahim23/techkhor.git)  |
 | CodeCraft         | Online programming learning platform       | [GitHub Repo](https://github.com/Aminulislammahim23/codecraft.git) |
 | XtremeMoto        | A Android Application focusing on real bikers | [GitHub Repo](https://github.com/Aminulislammahim23/xtrememotoshop.git) |
 | University Portal | desktop application based university portal app | [GitHub Repo](https://github.com/Aminulislammahim23/University_Portal) |
